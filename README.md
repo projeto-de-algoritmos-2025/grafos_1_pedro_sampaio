@@ -1,8 +1,7 @@
-# Parking lot
+# Exercícios de Grafos 1
 
 **Número da Lista**: 1  
-**Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
-
+**Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS
 
 ## Aluno
 
@@ -38,6 +37,6 @@ A atividade foi baseada na resolução de desafios de programação da plataform
 
 <div align="center">
 <a href="https://youtu.be/PoJ3FK-J3wM?si=VLjQ5nK-w6U8Dh7-"><img src="https://i.imgur.com/nNBEJk2.png" width="50%"></a>
-</div>
 
 <font size="3"><p style="text-align: center">Autor: [Pedro Sampaio](https://github.com/PedroSampaioDias)</p></font>
+</div>
