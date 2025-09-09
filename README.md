@@ -121,7 +121,7 @@ Usar **BFS** sobre estados:
 ## Apresentação 
 
 <div align="center">
-<a href="https://youtu.be/PoJ3FK-J3wM?si=VLjQ5nK-w6U8Dh7-"><img src="https://i.imgur.com/nNBEJk2.png" width="50%"></a>
+<a href="https://youtu.be/bVQmq0w8F2o"><img src="https://img.youtube.com/vi/bVQmq0w8F2o/hqdefault.jpg" width="50%"></a>
 
 <font size="3"><p style="text-align: center">Autor: [Pedro Sampaio](https://github.com/PedroSampaioDias)</p></font>
 </div>
